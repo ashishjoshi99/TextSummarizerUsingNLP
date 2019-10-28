@@ -1,0 +1,2 @@
+# TextSummarizerUsingNLP
+ Simple Text Summarizer
